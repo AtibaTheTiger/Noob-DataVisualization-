@@ -1,5 +1,6 @@
 # Noob-DataVisualization-
 This is my first attempt at Cleaning and visualizing the 'Top 100 Spotify Songs 2024" dataset from Kaggle.com
+The goal was to practice visualizations and eventually create a few HTMLS that anyone would be able to open and see including one that features a drop-down menu to choose the visualization type!
 # Spotify Dashboard
 
 This is an interactive dashboard built using Plotly Dash to visualize the track scores from the "Most Streamed Spotify Songs 2024" dataset.
